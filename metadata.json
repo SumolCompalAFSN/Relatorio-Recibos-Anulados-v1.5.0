@@ -1,0 +1,6 @@
+{
+  "name": "CONTROLO DE RECIBOS ANULADOS",
+  "description": "Importação de ficheiro Excel SAP de recibos anulados, consolidação com Template de Vendedores/GT, dashboard de KPIs e geração de email HTML, EML e ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
