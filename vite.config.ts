@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Relatorio-Recibos-Anulados-v1.5.0/',
+    base: '/Relatorio-Recibos-Anulados/',
     
     plugins: [react(), tailwindcss()],
     resolve: {
